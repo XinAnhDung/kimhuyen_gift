@@ -31,6 +31,7 @@ window.onload = function() {
 
     // images from http://www.hdwallpapers.in
     var urls = [
+            'imgs/4.png',
             'imgs/chibi_2.jpg',
             'imgs/3.jpg',
             // 'imgs/phu/bg.png',
